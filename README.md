@@ -158,7 +158,7 @@ Symmetry plots highlight symmetries on the divisibility plots and use them to tr
 	Plotted 4 redundant sets.
 	Saved as Renders/Symmetry Plots/m1 n1 p7, depth25 res10.png.
 
-![](Code/Renders/Symmetry%20Plots/m1%20n1%20p7,%20depth25%20res10.png.)
+![](Code/Renders/Symmetry%20Plots/m1%20n1%20p7,%20depth25%20res10.png)
 
 By visually confirming that the black points are in the same locations as they are in the previous divisibility plot, the symmetries are verified. The chessboard shading represents translation and rotation symmetry, while the lines represent reflection symmetry.
 
