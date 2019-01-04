@@ -218,11 +218,8 @@ Mathematical sources are listed in the *Works Cited* section of the paper. Not l
 
 Programming sources from the following URLs were used for guidance while writing the code that made the graphics in the paper possible.
 
-- [www.java2s.com/Tutorials/Java/Graphics_How_to/Image/Create_BMP_format_image.htm](https://www.java2s.com/Tutorials/Java/Graphics_How_to/Image/Create_BMP_format_image.htm)
-- [docs.oracle.com/javase/tutorial/2d/images/loadimage.html](https://docs.oracle.com/javase/tutorial/2d/images/loadimage.html)
-- [docs.oracle.com/javase/tutorial/java/nutsandbolts/switch.html](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/switch.html)
-- [courses.cs.washington.edu/courses/cse341/98au/java/jdk1.2beta4/docs/api/java/awt/image/BufferedImage.html](https://courses.cs.washington.edu/courses/cse341/98au/java/jdk1.2beta4/docs/api/java/awt/image/BufferedImage.html)
-- [stackoverflow.com/questions/1440750/set-bufferedimage-to-be-a-color-in-java](https://stackoverflow.com/questions/1440750/set-bufferedimage-to-be-a-color-in-java)
-- [stackoverflow.com/questions/5824916/how-do-i-open-an-image-in-the-default-image-viewer-using-java-on-windows](https://stackoverflow.com/questions/5824916/how-do-i-open-an-image-in-the-default-image-viewer-using-java-on-windows)
-- [pages.cs.wisc.edu/~hasti/cs368/JavaTutorial/NOTES/JavaIO_Scanner.html](https://pages.cs.wisc.edu/~hasti/cs368/JavaTutorial/NOTES/JavaIO_Scanner.html)
-- [www.technojeeves.com/index.php/33-scale-an-image-in-javas](https://www.technojeeves.com/index.php/33-scale-an-image-in-javas)
+- [java2s - Java Graphics How to - Create BMP format image](https://www.java2s.com/Tutorials/Java/Graphics_How_to/Image/Create_BMP_format_image.htm)
+- [Oracle Java Documentation - The switch Statement](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/switch.html)
+- [University of Washington - Class java.awt.image.BufferedImage](https://courses.cs.washington.edu/courses/cse341/98au/java/jdk1.2beta4/docs/api/java/awt/image/BufferedImage.html)
+- [Pete Kirkham on Stack Overflow - Set BufferedImage to be a color in Java](https://stackoverflow.com/a/1440781)
+- [RealHowTo on Stack Overflow - How do I open an image in the default image viewer using Java on Windows?](https://stackoverflow.com/a/5825265)
