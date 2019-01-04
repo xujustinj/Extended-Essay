@@ -1,8 +1,6 @@
-[//]: # (permalink: /03-01-19 Version (Revision).pdf)
-
 # A Geometric Explanation for Prime-rich Lines on the Ulam Spiral
 
-The revised paper can be found [here](xujustinj.github.io/Extended-Essay). It is identical to the submitted version in content, differing only in the use of the align environment, the typeset bibliography, and the rearranged appendix.
+The revised paper can be found [here](03-01-19%20Version%20(Revision).pdf). It is identical to the submitted version in content, differing only in the use of the align environment, the typeset bibliography, and the rearranged appendix.
 
 
 
