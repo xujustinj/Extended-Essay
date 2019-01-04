@@ -1,0 +1,10 @@
+
+*.java~
+*.class
+*.aux
+*.bbl
+*.blg
+*.log
+*.pdf
+*.gz
+*.toc
