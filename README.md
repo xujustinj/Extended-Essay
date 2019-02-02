@@ -201,11 +201,11 @@ As a product of two all-nighters and ignorance of good coding practice, this is 
  1. Noting that the program was meant to be used only by its creator, error handling was unimplemented.
  2. There is constant typecasting between int and long types, for which I could not seem to decide on which one to use.
  3. It takes a 4000 word essay to explain how some of the lines work.
- 4. I commit the ultimate sin of using "w" in variable names to represent lowercase omega.
+ 4. I commit the ultimate sin of using "w" in variable names to represent lowercase omega (ω).
  5. Some lines must be broken 3 times to fit in 80 characters.
  6. The comments are either missing or dastardly unhelpful.
  7. It uses inefficient algorithms whenever the efficient one is too long to write.
- 8. It's nested ifs and fors and whiles all the way down.
+ 8. Nested ifs and fors and whiles all the way down.
  9. Some of the loops are non-terminating if you're not careful with your input.
 10. The past me who created this had no awareness of function abstraction or object-oriented programming.
 11. The style was inconsistent before I tried to clean it up, not to mention after.
