@@ -8,7 +8,7 @@ The revised paper can be found [here](03-01-19 Version (Revision).pdf). It is id
 
 ### Motivation
 
-The Extended Essay (EE) is a widely-dreaded part of the International Baccalaureate Diploma Programme, which requires students to write a 3000-4000 word paper on a topic of their choice. In short, the purpose of the undertaking is for the student to demonstrate expertise (developed through extensive individual research) on that topic, exceeding the expectations of the curriculum.
+The [Extended Essay (EE)](https://www.ibo.org/programmes/diploma-programme/curriculum/extended-essay/what-is-the-extended-essay/) is a widely-dreaded part of the International Baccalaureate Diploma Programme, which requires students to write a 3000-4000 word paper on a topic of their choice. In short, the purpose of the undertaking is for the student to demonstrate expertise (developed through extensive individual research) on that topic, exceeding the expectations of the curriculum.
 
 I believed that I was strong enough at mathematics that I would enjoy writing a math EE. I found the Ulam spiral from a [Numberphile video](https://youtu.be/iFuR97YcSLM), and thought it would be approachable despite lacking any formal training in the modular arithmetic that the paper came to rely so heavily on. I spent the first half of 2017 worrying about inadvertently overlapping with other papers on the subject, which I searched extensively for but never found any. I became convinced that I would be producing novel insights into a topic that had yet to be explored, because it was so obscure. In hindsight, the lack of exploration into the patterns on the Ulam spiral comes more from the fact that it is trivial to anyone with introductory training in solving quadratic Diophantine equations.
 
