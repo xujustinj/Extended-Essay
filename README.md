@@ -24,7 +24,7 @@ At the beginning of my research I greatly overestimated the power that this mode
 
 ### Remarks
 
-For me to take on this EE topic was to reach for something much higher than my ability at the time, and it is easy to say now that my past delusions of grandeur are embarassing. But on the other hand, I am proud of my emphasis on rigour and formality as I wrote my EE, which greatly contributed to figuring out a correct (although linguistically inefficient) interpretation of what is going on with the Ulam spiral. I'm proud of giving myself a kickstart in modular arithmetic, which made part of the discrete mathematics unit in HL Math a breeze. And I'm proud of picking up using LaTeX (in TeXstudio), which certainly has since come in handy in university.
+For me to take on this EE topic was to reach for something much higher than my ability at the time, and it is easy to say now that my past delusions of grandeur are embarrassing. But on the other hand, I am proud of my emphasis on rigour and formality as I wrote my EE, which greatly contributed to figuring out a correct (although linguistically inefficient) interpretation of what is going on with the Ulam spiral. I'm proud of giving myself a kickstart in modular arithmetic, which made part of the discrete mathematics unit in HL Math a breeze. And I'm proud of picking up using LaTeX (in TeXstudio), which certainly has since come in handy in university.
 
 And as a cherry on top, it did receive an A.
 
